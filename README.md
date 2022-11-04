@@ -1,4 +1,6 @@
-### Hi there 👋
+### Informaticien en études 👋
+
+#### Étudiant en 3$ềme$ année de licence informatique à [l'Université du Mans](http://univ-lemans.fr)
 
 <!--
 **TheMisterPenguin/TheMisterPenguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
