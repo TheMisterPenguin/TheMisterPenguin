@@ -1,6 +1,6 @@
 ### Bienvenue sur mon profil 👋
 
-#### Étudiant en $3^{ème}$ année de licence informatique à [l'Université du Mans](http://univ-lemans.fr)
+#### Étudiant en $ 1^{ère} $ année de Master informatique à [l'Université du Mans](http://univ-lemans.fr)
 
 <!--
 **TheMisterPenguin/TheMisterPenguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
